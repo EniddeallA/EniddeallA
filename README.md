@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **EniddeallA/EniddeallA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+[![42 Profile Card](https://1337-readme.vercel.app/api/profile?cursus=42&dark=true&login=akhalid)
