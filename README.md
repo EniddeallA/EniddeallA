@@ -17,4 +17,6 @@ Here are some ideas to get you started:
 Learning variant technologies at the same time.
 
 ---
-![42 Profile Card](https://1337-readme.vercel.app/api/profile?cursus=42&dark=true&login=akhalid)
+<p align="center">
+<img src="https://1337-readme.vercel.app/api/profile?cursus=42&dark=true&login=akhalid">
+</p>
