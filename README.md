@@ -12,4 +12,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+1337 Student. Currently Working on my cursus to get that 42 certificate 🤤.
+
+Learning variant technologies at the same time.
+
+---
 ![42 Profile Card](https://1337-readme.vercel.app/api/profile?cursus=42&dark=true&login=akhalid)
