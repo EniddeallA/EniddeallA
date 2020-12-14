@@ -21,3 +21,5 @@ Here are some ideas to get you started:
 - [1337](https://www.1337.ma/en/) Student.
 - Currently Working on my cursus to get that 42 certificate 🤤.
 - Learning variant technologies at the same time.
+
+#### [Card repository](https://github.com/mohouyizme/1337-readme)
