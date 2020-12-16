@@ -23,3 +23,10 @@ Here are some ideas to get you started:
 - Learning variant technologies at the same time.
 
 #### [Card repository](https://github.com/mohouyizme/1337-readme)
+
+## My GitHub Stats
+
+<img align="left" alt="eniddealla Github Stats" src="https://github-readme-stats.vercel.app/api?username=eniddealla&show_icons=true&hide_border=true&hide_title=true&icon_color=17D778&bg_color=0d1117&text_color=e1e4e8" />
+
+
+<img align="left" alt="eniddealla Github Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eniddealla&show_icons=true&hide_border=true&hide_title=true&layout=compact&icon_color=17D778&bg_color=0d1117&text_color=e1e4e8" />
