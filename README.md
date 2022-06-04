@@ -2,7 +2,7 @@
 ![](https://img.shields.io/github/stars/eniddealla?style=for-the-badge&logo=github)
 
 <p align="center">
-  <img src="https://1337-readme.vercel.app/api/profile?cursus=42&dark=true&login=akhalid">
+  <img src="https://1337-readme-xi.vercel.app/api/profile?dark=true&login=akhalid">
   <a href="https://github.com/mohouyizme/1337-readme"> <p align="center">42 Profile Card Repository</p> </a>
 </p>
 
