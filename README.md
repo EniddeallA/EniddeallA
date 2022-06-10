@@ -12,6 +12,7 @@
 
 - [1337](https://www.1337.ma/en/) Student.
 - Currently Working on my cursus to get that 42 certificate 🤤.
+- I like low level programing as low as my self-esteem.
 - Learning variant technologies at the same time.
 
 ## My GitHub Stats
