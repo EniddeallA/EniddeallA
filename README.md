@@ -12,12 +12,6 @@
 
 - [1337](https://www.1337.ma/en/) Student.
 - Currently Working on my cursus to get that 42 certificate 🤤.
-- I like low level programing as low as my self-esteem.
+- I like low level programing.
+- Data science and ML enthusiast
 - Learning variant technologies at the same time.
-
-## My GitHub Stats
-
-<img alt="eniddealla Github Stats" src="https://github-readme-stats.vercel.app/api?username=eniddealla&show_icons=true&hide_border=true&hide_title=true&icon_color=17D778&bg_color=0d1117&text_color=e1e4e8">
-
-
-<img alt="eniddealla Github Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eniddealla&show_icons=true&hide_border=true&hide_title=true&layout=compact&icon_color=17D778&bg_color=0d1117&text_color=e1e4e8">
