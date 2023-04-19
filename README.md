@@ -4,6 +4,6 @@
 ## About Me
 
 - [1337](https://www.1337.ma/en/) Student.
-- Software Engineer at [PYCCEL](https://github.com/pyccel/pyccel).
+- Software Engineer.
 - ML and Data Science enthusiast.
 - Learning variant technologies at the same time.
